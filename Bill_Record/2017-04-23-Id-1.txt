@@ -1,0 +1,8 @@
+Order No:1
+Customer Name:Md.Rakib
+Address:SM Road,Dhaka
+Phone Number:0195555
+Subtotal:400.0
+Discount:0.0
+Vat:40.0
+Total:440.0

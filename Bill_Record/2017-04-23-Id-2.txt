@@ -1,0 +1,8 @@
+Order No:2
+Customer Name:MR.Karim
+Address:GM Road,Dhaka
+Phone Number:01955555
+Subtotal:850.0
+Discount:127.5
+Vat:72.25
+Total:794.75
